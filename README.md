@@ -4,7 +4,7 @@ This is a simple quiz app created using HTML, CSS, and JavaScript. Users can ans
 
 ## Demo
 
-[Insert Demo Link Here]
+[(https://tiny-fudge-aae3db.netlify.app/)]
 
 ## Features
 
